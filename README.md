@@ -1,2 +1,2 @@
 # Shatranj
-Chess App
+Chess App - Overall Code under maintenance, optimization and upgrades coming
